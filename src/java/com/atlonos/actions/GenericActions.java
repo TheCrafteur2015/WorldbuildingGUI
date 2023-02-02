@@ -12,7 +12,7 @@ import java.awt.datatransfer.Clipboard;
  * @author  Gabriel ROCHE
  * @version 1.0
  */
-public abstract class GenericActions {
+public abstract class GenericActions implements ActionListener, MouseListener, KeyListener {
 
 	public static Clipboard clip = Toolkit.getDefaultToolkit().getSystemClipboard();
 	
