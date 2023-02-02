@@ -146,7 +146,8 @@ public class Main extends JFrame implements ISelf {
 			Random_Size_Generator (SubmenuNames.Decimal_Generators),
 			Random_Volume_Generator (SubmenuNames.Decimal_Generators),
 			Draconian_Name_Generator(SubmenuNames.Names_Generators),
-			Drakanian_Name_Generator(SubmenuNames.Names_Generators),/*
+			Drakanian_Name_Generator(SubmenuNames.Names_Generators),
+			/*
 			T1(SubmenuNames.Names_Generators),
 			T2(SubmenuNames.Names_Generators),
 			T3(SubmenuNames.Names_Generators),
