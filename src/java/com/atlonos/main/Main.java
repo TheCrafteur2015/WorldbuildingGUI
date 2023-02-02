@@ -44,7 +44,7 @@ public class Main extends JFrame implements ISelf {
 		this.setLocationRelativeTo(null);
 		this.setTitle("Home");
 		
-		this.setIconImage( new ImageIcon( "C:\\Users\\Gabri\\Documents\\WorldBuilding\\Ressources\\organizations\\infoicon-3.png" ).getImage() );
+		this.setIconImage( new ImageIcon( "/src/resources/infoicon-3.png" ).getImage() );
 		
 		this.add( MenuBar.getMenuBar(this), NORTH );
 		
