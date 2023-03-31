@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.atlonos.main;
 
 import static java.awt.BorderLayout.NORTH;
